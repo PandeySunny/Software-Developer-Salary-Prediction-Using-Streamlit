@@ -1,4 +1,3 @@
-# Software-Developer-Salary-Prediction-Using-Streamlit
 
 # 💼 Software Developer Salary Prediction App
 
